@@ -10,9 +10,11 @@ Allow students to view and convert real-life design prototypes to virtual protot
 
 ## How we built it
 
+We first started experimenting with object detection in OpenCV. We used the Viola Jones algorithm through the use of HAAR CASCADE Classifier for classification at first. Our project however required us to use some better means so we took to YOLO and Darknet for training a neural network that was trained on images of pen tips, which was a huge progress
 
 ## Challenges we ran into
 
+Object Detection had been the main problem that we had ran into while coding the software.
 
 ## Accomplishments that we're proud of
 
