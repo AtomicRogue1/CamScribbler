@@ -25,7 +25,7 @@ As simple as that!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For more info, visit:
+For more information, visit:
 
 https://camscribbler.notion.site/Introducing-CamScribbler-e5a7553ff02a4e2c9588f9c955307bc7
 
