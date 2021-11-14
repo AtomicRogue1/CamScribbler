@@ -2,7 +2,7 @@
  
 Theme: Education 🏫
 
-Ever wonder how can I bring my real life protoype designs to life virtually? Well now you can with our new product: Project-Broke-But-Woke-Drawing-Tablet
+Ever wonder how can I bring my real life protoype designs to life virtually? Well now you can with our new product: CamScribbler
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
