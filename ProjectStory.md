@@ -14,7 +14,7 @@ We first started experimenting with object detection in OpenCV. We used the Viol
 
 ## Challenges we ran into
 
-Object Detection had been the main problem that we had ran into while coding the software.
+Object Detection had been the main problem that we had ran into while coding the software. Moreover, we also ran into problems while training the ML model becoz the images required to train the model were less and hence the model was less precise.
 
 ## Accomplishments that we're proud of
 
