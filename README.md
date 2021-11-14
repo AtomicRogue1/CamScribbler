@@ -1,4 +1,4 @@
-# Project-Broke-But-Woke-Drawing-Tablet 🚀
+# CamScribbler 🚀
  
 Theme: Education 🏫
 
