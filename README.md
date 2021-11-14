@@ -26,7 +26,8 @@ As simple as that!
 
 
 For more info, visit:
-https://www.notion.so/virtualpen/Introducing-CamScribbler-e5a7553ff02a4e2c9588f9c955307bc7
+
+https://camscribbler.notion.site/Introducing-CamScribbler-e5a7553ff02a4e2c9588f9c955307bc7
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
